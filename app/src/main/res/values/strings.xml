@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BackgroundService</string>
+
+    //Main Activity
+    <string name="head">Current Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="area">Area</string>
+    <string name="address">Address</string>
+    <string name="locality">Locality</string>
+</resources>
